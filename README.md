@@ -1,2 +1,2 @@
 # js-developer-pokedex
- Projeto pokedex feiti em JS
+ Projeto pokedex feito em JS
