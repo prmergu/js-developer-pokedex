@@ -1,2 +1,3 @@
 # js-developer-pokedex
- Projeto pokedex feito em JS
+Primeira parte do  Projeto pokedex feito em JS Finalizada
+Segunda parte em construção..
